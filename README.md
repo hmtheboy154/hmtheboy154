@@ -1,6 +1,6 @@
 ### A lazy kid who dream big ¯\_(ツ)_/¯
 - 🔭 I’m currently playing around with Android and Linux.
-- 🌱 I’m currently learning at Hong Quang High School, Hai Duong City.
+- 🌱 I’m currently studying at Hong Quang High School, Hai Duong City.
 - 🤔 I’m looking for help with everything since I;m dumb :p
 - 💬 Don't ask me anything, I'm dumb :p
 - 📫 How to reach me: 
@@ -8,7 +8,7 @@
   + Email : hmtheboy154@protonmail.com
   + Facebook : https://www.facebook.com/bui.minh.560/
   + Twitter : https://twitter.com/hmtheboy154
-
+  + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
 
 <!--
 **hmtheboy154/hmtheboy154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
