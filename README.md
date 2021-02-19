@@ -6,7 +6,7 @@
 - 📫 How to reach me: 
   + Discord : @HMTheBoy154#9723
   + Email : hmtheboy154@protonmail.com
-  + Facebook : https://www.facebook.com/bui.minh.560/
+  + Facebook : https://www.facebook.com/hmtheboy154/
   + Twitter : https://twitter.com/hmtheboy154
   + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
 
