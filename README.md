@@ -1,6 +1,6 @@
 ### A lazy kid who dream big ¯\_(ツ)_/¯
 - 🔭 I’m currently playing around with Android and Linux.
-- 🌱 I’m currently studying at Hong Quang High School, Hai Duong City.
+- 🌱 I’m currently studying at FPT University, Hoa Lac, Hanoi.
 - 🤔 I’m looking for help with everything since I'm dumb :p
 - 💬 Don't ask me anything, I'm dumb :p
 - 📫 How to reach me: 
