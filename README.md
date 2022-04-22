@@ -5,7 +5,7 @@
 - 💬 Don't ask me anything, I'm dumb :p
 - 📫 How to reach me: 
   + Discord : @HMTheBoy154#9723
-  + Email : hmtheboy154@protonmail.com
+  + Email : hmtheboy154@proton.me
   + Facebook : https://www.facebook.com/hmtheboy154/
   + Twitter : https://twitter.com/hmtheboy154
   + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
