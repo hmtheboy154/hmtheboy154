@@ -6,9 +6,9 @@
 - 📫 How to reach me: 
   + Discord : @HMTheBoy154#9723
   + Email : hmtheboy154@proton.me
-  + Facebook : https://www.facebook.com/hmtheboy154/
+  + Facebook : https://www.facebook.com/hmtheboy154/https://i.ibb.co/dPgGjNv/E2u-QXWXUYAQQgh-X.jpg
   + Twitter : https://twitter.com/hmtheboy154
   + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
 
 ```math
-\ce{$\unicode[display: block; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('https://raw.githubusercontent.com/hmtheboy154/hmtheboy154/master/hina.jpg') repeat; background-size: 117.5px 127.25px; opacity: 0.5; z-index: -1;]{x0000}$}
+\ce{$\unicode[display: block; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('https://github.com/hmtheboy154/hmtheboy154/blob/master/hina.jpg?true') repeat; background-size: 117.5px 127.25px; opacity: 0.5; z-index: -1;]{x0000}$}
