@@ -11,4 +11,4 @@
   + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
 
 ```math
-\ce{$\unicode[position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: url('https://i.ibb.co/dPgGjNv/E2u-QXWXUYAQQgh-X.jpg') repeat; background-size: 117.5px 127.25px; opacity: 0.5; z-index: -1;]{x0000}$}
+\ce{$\unicode[position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-size: 117.5px 127.25px; opacity: 0.5; z-index: -1; background: url('https://i.ibb.co/dPgGjNv/E2u-QXWXUYAQQgh-X.jpg');]{x0000}$}
