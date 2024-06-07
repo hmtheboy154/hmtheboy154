@@ -11,4 +11,4 @@
   + SupremeGamers forum : https://supreme-gamers.com/members/hmtheboy154.3/
 
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 45vh; object-fit: cover; background-size: cover; width: 50vw; opacity: 0.5; background: url('https://i.ibb.co/dPgGjNv/E2u-QXWXUYAQQgh-X.jpg');]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: auto; opacity: 0.5; background: url('https://i.ibb.co/dPgGjNv/E2u-QXWXUYAQQgh-X.jpg');]{x0000}$}
